@@ -24,7 +24,7 @@
             <div class="max-w-6xl mx-auto border-black border">
                 <div class="max-w-6xl mx-auto bg-black flex border-black border " style="background-color:#6a8d3e;">
                     <div class="flex justify-center h-full text-center lg:px-12 px-6 py-32">
-                    <p class="mt-4 text-white lg:text-xl text-lg leading-relaxed"><span class="text-black font-black">IbifiriWari,</span> is a creative agency specializing in creative management, development and strategy, curation, creative business development and production. We work as a conduit between 
+                    <p class="mt-4 text-white lg:text-xl text-xl leading-relaxed"><span class="text-black font-black">IbifiriWari,</span> is a creative agency specializing in creative management, development and strategy, curation, creative business development and production. We work as a conduit between 
                     <br><span id="dynamic-text" class=" font-black text-black leading-relaxed"></span> committed to the development of creative and cultural ecosystems supporting creatives, culture workers, organizations and businesses across industries. 
                     </p>
                     
