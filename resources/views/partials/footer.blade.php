@@ -1,9 +1,14 @@
 <footer class="bg-transparent">
-    <div class="max-w-8xl mx-auto py-4 px-4 sm:px-6 lg:px-8">
-        <div class="flex justify-between">
-            <a href="mailto:hello@ibifiriwari.co" class="flex items-center text-white">
-                hello@ibifiriwari.co
+    <div class="max-w-6xl mx-auto lg:px-0 px-6 pb-6">
+        <div class="max-w-6xl  border-black border flex justify-between px-6  bg-black">
+        
+            <a href="mailto:hello@ibifiriwari.co" rel="noopener noreferrer" class="flex items-center text-white">
+              <img src="https://res.cloudinary.com/nieleche/image/upload/v1718344441/email_1_prdbpm.png" class="w-8" alt="">
             </a>
+            <div class="">
+                <img src="https://res.cloudinary.com/nieleche/image/upload/v1706619116/IBIFIBGWHITE_wcgwlk.png" class="size-20" alt="">
+            </div>
+        
             <a href="https://www.instagram.com/ibifiriwari/?hl=en" target="_blank" rel="noopener noreferrer" class="flex items-center text-white">
               <img src="https://res.cloudinary.com/nieleche/image/upload/v1706629108/5811465_vwx8lj.png" class="size-8" alt="">
             </a>
@@ -12,11 +17,3 @@
     
 </footer>
 
-
-<style>
-    footer {
-        position: fixed;
-        bottom: 0;
-        width: 100%;
-    }
-</style>

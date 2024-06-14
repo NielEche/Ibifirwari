@@ -10,6 +10,7 @@
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=figtree:400,500,600&display=swap" rel="stylesheet" />
+        <link href="{{ asset('style/general.css') }}" rel="stylesheet">
 
         <!-- Favicon -->
         <link rel="icon" href="https://res.cloudinary.com/nieleche/image/upload/v1706619116/IBIFIBGWHITE_wcgwlk.png" type="image/x-icon">
@@ -21,10 +22,10 @@
         <!-- Styles -->
         @livewireStyles
     </head>
-    <body class="font-sans antialiased bg-black">
+    <body class="font-sans antialiased bg-orange-50">
         <x-banner />
 
-        <div class="min-h-screen bg-black dark:bg-black">
+        <div class="min-h-screen bg-orange-50 dark:bg-orange-50">
          
 
             <!-- Page Heading -->
